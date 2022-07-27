@@ -25,8 +25,10 @@ Read port: 5369
 [GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilegmRhID\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:5360/devtools/browser/c70138d4-9dbf-49cb-b0d6-72b709290779
-1658815448713	geckodriver	INFO	Listening on 127.0.0.1:5431
-1658815451814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilesQe4he"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1658819012081	Marionette	INFO	Stopped listening on port 5369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilesQe4he"
 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
 1658815452210	Marionette	INFO	Marionette enabled
 1658815452216	Marionette	INFO	Listening on port 5441
