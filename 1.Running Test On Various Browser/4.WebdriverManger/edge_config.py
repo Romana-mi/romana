@@ -9,7 +9,6 @@ class edge():
 
         driver.get('https://google.com')
         driver.close()
-        driver.close()
 
 test_obj = edge()
 test_obj.edge_launch()
